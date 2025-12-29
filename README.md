@@ -18,5 +18,6 @@ TimeValueOfMoney.xlsx is an Excel workbook designed to apply and reinforce core 
 Bond:
 Bond_Kelly_Wenzel.xlsx is an Excel workbook focused on fixed-income analysis, combining theoretical concepts with applied financial modeling. It includes structured worksheets covering bond pricing, yield calculations, duration and convexity, immunization strategies, and yield curve analysis, along with practice problems and an academic assignment. The file emphasizes practical use of Excel to evaluate bond values, interest rate sensitivity, and risk management techniques commonly used in fixed-income investing.
 
+These projects were done through my Financial Modeling class at USF. 
 
 
